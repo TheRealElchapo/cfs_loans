@@ -1,2 +1,2 @@
 # cfs_loans
-A Complete fivem loan system with credit score
+A Complete fivem loan system with credit score 1
